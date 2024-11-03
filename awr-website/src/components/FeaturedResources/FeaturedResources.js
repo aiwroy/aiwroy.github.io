@@ -12,7 +12,7 @@ const FeaturedResources = () => {
   ];
 
   return (
-    <section className="featured-resources">
+    <section class="featured-resources">
       <div className="container">
         <h2>Featured AI Resources</h2>
         <div className="resources-grid">

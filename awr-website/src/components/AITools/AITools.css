@@ -59,3 +59,9 @@
   .explore-button:hover {
     background-color: #9c27b0;
   }
+
+  @media screen and (min-width: 555px) {
+    .ai-tools .container {
+      flex-direction: column;
+    }
+  }

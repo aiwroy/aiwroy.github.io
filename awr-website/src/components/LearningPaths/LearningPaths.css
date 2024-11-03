@@ -82,3 +82,9 @@
   .assessment-button:hover {
     background-color: #7b1fa2;
   }
+
+  @media screen and (min-width: 555px) {
+    .learning-paths .container {
+      flex-direction: column;
+    }
+  }
