@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MasterAI/static/css/main.1e553026.css",
-    "main.js": "/MasterAI/static/js/main.b079a133.js",
-    "static/js/453.047b2b71.chunk.js": "/MasterAI/static/js/453.047b2b71.chunk.js",
-    "index.html": "/MasterAI/index.html",
-    "main.1e553026.css.map": "/MasterAI/static/css/main.1e553026.css.map",
-    "main.b079a133.js.map": "/MasterAI/static/js/main.b079a133.js.map",
-    "453.047b2b71.chunk.js.map": "/MasterAI/static/js/453.047b2b71.chunk.js.map"
+    "main.css": "/awr-website/static/css/main.1e553026.css",
+    "main.js": "/awr-website/static/js/main.39268e08.js",
+    "static/js/453.047b2b71.chunk.js": "/awr-website/static/js/453.047b2b71.chunk.js",
+    "index.html": "/awr-website/index.html",
+    "main.1e553026.css.map": "/awr-website/static/css/main.1e553026.css.map",
+    "main.39268e08.js.map": "/awr-website/static/js/main.39268e08.js.map",
+    "453.047b2b71.chunk.js.map": "/awr-website/static/js/453.047b2b71.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e553026.css",
-    "static/js/main.b079a133.js"
+    "static/js/main.39268e08.js"
   ]
 }
