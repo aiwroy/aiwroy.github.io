@@ -1,0 +1,84 @@
+.learning-paths {
+    background-color: white;
+    padding: 4rem 0;
+  }
+  
+  .learning-paths h2 {
+    text-align: center;
+    color: #4a148c;
+    margin-bottom: 2rem;
+  }
+  
+  .paths-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin-bottom: 3rem;
+  }
+  
+  .path-card {
+    background-color: #f5f5f5;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .path-card h3 {
+    color: #4a148c;
+    margin-bottom: 1rem;
+  }
+  
+  .path-card ul {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 1.5rem;
+  }
+  
+  .path-card li {
+    margin-bottom: 0.5rem;
+    display: flex;
+    align-items: center;
+  }
+  
+  .path-card li::before {
+    content: '✓';
+    color: #4caf50;
+    margin-right: 0.5rem;
+  }
+  
+  .start-path-button {
+    width: 100%;
+    background-color: #7b1fa2;
+    color: white;
+    border: none;
+    padding: 0.75rem;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .start-path-button:hover {
+    background-color: #9c27b0;
+  }
+  
+  .assessment-cta {
+    text-align: center;
+  }
+  
+  .assessment-cta p {
+    margin-bottom: 1rem;
+  }
+  
+  .assessment-button {
+    background-color: #4a148c;
+    color: white;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .assessment-button:hover {
+    background-color: #7b1fa2;
+  }
