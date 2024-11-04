@@ -64,4 +64,7 @@
     .ai-tools .container {
       flex-direction: column;
     }
+    .tools-grid{
+      width: 90%;
+    }
   }

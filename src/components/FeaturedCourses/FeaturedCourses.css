@@ -86,4 +86,7 @@
     .featured-courses .container {
       flex-direction: column;
     }
+    .courses-grid{
+      width: 90%;
+    }
   }

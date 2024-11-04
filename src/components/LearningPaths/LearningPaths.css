@@ -87,4 +87,7 @@
     .learning-paths .container {
       flex-direction: column;
     }
+    .paths-grid{
+      width: 90%;
+    }
   }
